@@ -70,7 +70,7 @@ The library cannot currently be used with hardware based on the ENC28J60 chip â€
 - Wire.read()
   Receive 1 byte.
 
-# Steps to send data to labview vibration and temperature platform using IoT Long Range Wireless  Temperature And Humidity Sensor and  Long Range Wireless Mesh Modem with USB Interface-
+# Steps to send data to labview  temperature and humidity platform using IoT Long Range Wireless  Temperature And Humidity Sensor and  Long Range Wireless Mesh Modem with USB Interface-
 
 - First, we need a Labview utility application which is [ncd.io Wireless Temperature And Humidity Sensor.exe](https://github.com/ncdcommunity/Industrial-Wireless-IoT-Temperature-Humidity-Sensor) file on which data can be viewed.
 
