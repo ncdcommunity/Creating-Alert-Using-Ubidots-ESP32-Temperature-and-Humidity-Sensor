@@ -155,8 +155,9 @@ Ubidots' prebuilt integrations include:
 3. Then choose a device and associating variable that indicates the devices' "values".
 [![alt tag](https://github.com/mjScientech/Creating-Alert-Using-Ubidots-ESP32-Temperature-and-Humidity-Sensor/blob/master/event3.JPG)
 
-4. Now selct a thresold value for your event to trigger and compare it to device values and also select time to trigger your event .
-5.Now, create  action type by clicking plus sign.
+4. Now selct a thresold value for your event to trigger and compare it to device values and also select time to trigger your event.
+
+5. Now, create  action type by clicking plus sign.
 [![alt tag](https://github.com/mjScientech/Creating-Alert-Using-Ubidots-ESP32-Temperature-and-Humidity-Sensor/blob/master/event4.JPG)
 
 6.  Establish and configure which actions are to be executed and the message to the receiver: Send SMS, Email, Webhooks, Telegrams,     Phone Calls, SLACK, and webhooks to those who need to know.
@@ -167,13 +168,10 @@ Ubidots' prebuilt integrations include:
 
 [![alt tag](https://github.com/mjScientech/Creating-Alert-Using-Ubidots-ESP32-Temperature-and-Humidity-Sensor/blob/master/event5.JPG)
 
-6. Configure the Event notice.
-[![alt tag](https://github.com/mjScientech/Creating-event-using-ubidots-and-Long-range-temperature-and-vibration-sensor/blob/master/event5.PNG)
-
-7. Determine the activity window the events may/may not be executed.
+8. Determine the activity window the events may/may not be executed.
 [![alt tag](https://github.com/mjScientech/Creating-event-using-ubidots-and-Long-range-temperature-and-vibration-sensor/blob/master/event9.PNG)
 
-8. Confirm your Events.
+9. Confirm your Events.
 
 # Output of event in your mail
 [![alt tag](https://github.com/mjScientech/Creating-Alert-Using-Ubidots-ESP32-Temperature-and-Humidity-Sensor/blob/master/event8.JPG)
