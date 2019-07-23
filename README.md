@@ -170,7 +170,7 @@ Ubidots' prebuilt integrations include:
 
 8. Determine the activity window the events may/may not be executed.
 [![alt tag](https://github.com/ncdcommunity/Creating-Alert-Using-Ubidots-ESP32-Temperature-and-Humidity-Sensor/blob/master/event6.JPG)
-[![alt tag]()
+[![alt tag](https://github.com/ncdcommunity/Creating-Alert-Using-Ubidots-ESP32-Temperature-and-Humidity-Sensor/blob/master/event7.JPG)
 
 9. Confirm your Events.
 
