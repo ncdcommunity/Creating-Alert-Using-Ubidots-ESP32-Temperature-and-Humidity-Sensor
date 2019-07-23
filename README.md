@@ -132,4 +132,45 @@ The library cannot currently be used with hardware based on the ENC28J60 chip â€
 - **Now as the temperature/humidity  increases and decreases new data available inside the various variable.**
 ![alt tag](https://github.com/mjScientech/Esp32-Ubidots-Wireless-long-range-Temperature-And-Humidity/blob/master/widget4.JPG)
 
+# Creating events in ubidots:
+
+1. Select Events (from the Data dropdown).
+![alt tag](https://github.com/mjScientech/Creating-Alert-Using-Ubidots-ESP32-Temperature-and-Humidity-Sensor/blob/master/event1.JPG)
+2. Now click on create Event.
+![alt tag](https://github.com/mjScientech/Creating-Alert-Using-Ubidots-ESP32-Temperature-and-Humidity-Sensor/blob/master/event2.JPG)
+
+**Types of Events**
+Ubidots support already integrated events to allow you to send Events, Alerts, and Notifications to those who need to know, when they need to know. 
+Ubidots' prebuilt integrations include: 
+
+- Email notifications
+- SMS notifications
+- Webhook events - [learn more](https://help.ubidots.com/user-guides/events-create-a-webhook)
+- Telegram notifications
+- Slack notifications - [learn more](https://help.ubidots.com/user-guides/events-slack-webhook-setup)
+- Voice Call notifications - [learn more](https://help.ubidots.com/user-guides/events-voice-call-notifications)
+- Back to Normal notification - [learn more](https://help.ubidots.com/user-guides/events-back-to-normal-events-and-notifications)
+- Geofence notifications - [learn more](https://help.ubidots.com/user-guides/creating-a-geofence-alert)
+
+3. Then choose a device and associating variable that indicates the devices' "values".
+[![alt tag](https://github.com/mjScientech/Creating-Alert-Using-Ubidots-ESP32-Temperature-and-Humidity-Sensor/blob/master/event3.JPG)
+
+4. Now selct a thresold value for your event to trigger and compare it to device values and also select time to trigger your event .
+
+5.  Establish and configure which actions are to be executed and the message to the receiver: Send SMS, Email, Webhooks, Telegrams,     Phone Calls, SLACK, and webhooks to those who need to know.
+[![alt tag](https://github.com/mjScientech/Creating-event-using-ubidots-and-Long-range-temperature-and-vibration-sensor/blob/master/event6.PNG)
+
+6.  Configure the Event notice.
+[![alt tag](https://github.com/mjScientech/Creating-event-using-ubidots-and-Long-range-temperature-and-vibration-sensor/blob/master/event5.PNG)
+
+7. Determine the activity window the events may/may not be executed.
+[![alt tag](https://github.com/mjScientech/Creating-event-using-ubidots-and-Long-range-temperature-and-vibration-sensor/blob/master/event9.PNG)
+
+8. Confirm your Events.
+
+# Output of event in your mail
+[![alt tag](https://github.com/mjScientech/Creating-event-using-ubidots-and-Long-range-temperature-and-vibration-sensor/blob/master/outevent.PNG)
+
+
+
 
