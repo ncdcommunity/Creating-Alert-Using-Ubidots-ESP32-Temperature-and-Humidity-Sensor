@@ -1,5 +1,5 @@
 
-![alt tag](https://github.com/mjScientech/Esp32-Ubidots-Wireless-long-range-Temperature-And-Humidity/blob/master/imgonline-com-ua-twotoone-gnoy0scbwRu.jpg)
+![alt tag](https://github.com/mjScientech/Creating-Alert-Using-Ubidots-ESP32-Temperature-and-Humidity-Sensor/blob/master/imgonline-com-ua-twotoone-KfVhwaWcfr55M70.jpg)
 **In this , we will measure  temperature and humidity using NCD  temperature and humidity sensor, Esp32, Ubidots.**
 
 **Hardware** :
