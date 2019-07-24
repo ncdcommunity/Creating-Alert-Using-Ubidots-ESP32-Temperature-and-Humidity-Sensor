@@ -128,7 +128,6 @@ The library cannot currently be used with hardware based on the ENC28J60 chip â€
 - Now select all required option and your widget will create.On which you can view your temp and humidity data.
  ![alt tag](https://github.com/mjScientech/Esp32-Ubidots-Wireless-long-range-Temperature-And-Humidity/blob/master/widget3.JPG)        
 # OUTPUT
-- **Now as the temperature/humidity  increases and decreases new data available inside the various variable.**
 ![alt tag](https://github.com/mjScientech/Esp32-Ubidots-Wireless-long-range-Temperature-And-Humidity/blob/master/widget4.JPG)
 
 # Creating events in ubidots:
